@@ -1,4 +1,4 @@
-{
+test/tokenlist.schema.test.ts{
   "name": "@uniswap/token-lists",
   "author": {
     "name": "Uniswap Labs",
